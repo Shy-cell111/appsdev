@@ -1,1 +1,1 @@
-helllo guys
+print("helllo guys")
